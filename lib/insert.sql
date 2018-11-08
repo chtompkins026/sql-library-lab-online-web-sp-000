@@ -10,6 +10,9 @@ INSERT INTO books (id, title, year, series_id) VALUES (1, "Book 1", 2000, 1), (2
 INSERT INTO 
 
 
+
+
+
 -- characters (
 --   id INTEGER PRIMARY KEY,
 --   name TEXT,
