@@ -1,4 +1,4 @@
-INSERT INTO series (id, title, author_id, subgenre_id) VALUE ()  
+INSERT INTO series (id, title, author_id, subgenre_id) VALUES (1,"Lord of the Rings",)  
 
 -- id INTEGER PRIMARY KEY,
 --   title TEXT,
