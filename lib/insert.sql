@@ -13,3 +13,6 @@ INSERT INTO subgenres (id, name) VALUES (1, "subgenre1"), (2, "subgenre2");
 
 INSERT INTO authors (id, name) VALUES (1, "authorname1"), (2, "authorname2");
 
+INSERT INTO character_books (id, book_id, character_id) VALUES (1, 1, 1), (2, 1, 2), (3, 2, 2), (4, 3, 2), (5, 1, 1), (6, 2, 1), (7, 3, 1), (8, 1, 2);
+
+INSERT INTO character_books (id, book_id, character_id) VALUES (9, 4, 1), (10, 4, 1), (11, 5, 1), (12, 6, 1), (13, 4, 1), (14, 5, 2), (15, 3, 2), (16, 4, 2);
