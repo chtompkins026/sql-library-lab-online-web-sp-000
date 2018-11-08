@@ -11,4 +11,4 @@ INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES (
 
 INSERT INTO subgenres (id, name) VALUES (1, "subgenre1"), (2, "subgenre2");
 
-INSERT INTO authors (id, name) VALUES (1, "subgenre1"), (2, "subgenre2");
+INSERT INTO authors (id, name) VALUES (1, "authorname1"), (2, "authorname2");
